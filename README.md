@@ -1,7 +1,10 @@
-## Hi there 👋
-
+## Hi! I am Fatima Mazhar 👋
+<span style="color:green">Designing with simplicity, learning with curiosity</span>
 <!--
 **Fatima-Mazhar-1/Fatima-Mazhar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**I am a Computer Science graduate from FAST-NUCES with a growing interest in UI/UX design and human-centered experiences. My journey started with programming, but over time I discovered how much design impacts usability and how a well-crafted interface can completely change the way people interact with technology.As a UI designer, I focus on creating clean, simple, and accessible designs that not only look good but also make sense to the user. I enjoy working with tools like Figma and Adobe XD, where I can translate ideas into wireframes, prototypes, and interactive designs. My process involves understanding the user’s needs, exploring different design approaches, and refining until the interface feels natural and effortless.I believe design is not just about colors or layouts—it’s about solving problems. Whether it’s improving navigation, reducing complexity, or making apps usable for everyone, I approach each project as an opportunity to learn and improve. Alongside UI design, I keep exploring areas like usability testing, accessibility, and responsive design, which are essential to building experiences that work for real people in real situations.**
+
 
 Here are some ideas to get you started:
 
